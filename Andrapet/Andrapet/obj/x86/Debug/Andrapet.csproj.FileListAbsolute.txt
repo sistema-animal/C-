@@ -1,0 +1,6 @@
+C:\Users\Roger\Documents\GitHub\C-\Andrapet\Andrapet\bin\Debug\Andrapet.exe
+C:\Users\Roger\Documents\GitHub\C-\Andrapet\Andrapet\bin\Debug\Andrapet.pdb
+C:\Users\Roger\Documents\GitHub\C-\Andrapet\Andrapet\obj\x86\Debug\Andrapet.Properties.Resources.resources
+C:\Users\Roger\Documents\GitHub\C-\Andrapet\Andrapet\obj\x86\Debug\Andrapet.csproj.GenerateResource.Cache
+C:\Users\Roger\Documents\GitHub\C-\Andrapet\Andrapet\obj\x86\Debug\Andrapet.exe
+C:\Users\Roger\Documents\GitHub\C-\Andrapet\Andrapet\obj\x86\Debug\Andrapet.pdb
